@@ -73,7 +73,6 @@ agcc filename [OPTIONS]
 copy and paste the following link in terminal
 
 ```bash
-curl https://raw.githubusercontent.com/osala-eng/alx_tools/master/findcp.sh -o findcp && chmod a+x findcp
 ```
 
 ## Usage
@@ -85,7 +84,7 @@ Run `./findcp [filename]`
 Generate Crackme3 password file using the following script
 
 ```bash
-curl https://raw.githubusercontent.com/osala-eng/alx_tools/master/crackme3.sh -o run.xt && chmod u+x run.xt && ./run.xt
+curl https://raw.githubusercontent.com/Boniel-M/alx_tools/master/crackme3.sh -o run.xt && chmod u+x run.xt && ./run.xt
 ```
 
 # Simple shell checker
